@@ -39,3 +39,9 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - How Server Components can help you access back-end resources more securely
 - What network faterfalls are
 - How to implement parallel data fetching using JavaScript Pattern.
+
+## Chapter 8: Static and Dynamic Rendering
+- What static rendering is and how it can improve app's performance
+- What dynamic rendering is and when to use it
+- Diff approaches to make dashboard dynamic
+- Simulate a slow data fetch
