@@ -52,3 +52,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - What loading skeletons are
 - What route groups are, and when you might use them
 - Where to place Suspense boundaries in your app
+
+## Chapter 10: Partial Prerendering
+- What Partial Prerendering is
+- How Partial Prerendering works
+- If you call dynamic function in a route, entire route become dynamic
