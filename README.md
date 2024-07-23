@@ -57,3 +57,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - What Partial Prerendering is
 - How Partial Prerendering works
 - If you call dynamic function in a route, entire route become dynamic
+
+## Chapter 11: Adding Search and Pagination
+- Learn how to use the Next.js APIs: useSearchParams, usePathname, and useRouter
+- Implement search and pagination using URL search params
